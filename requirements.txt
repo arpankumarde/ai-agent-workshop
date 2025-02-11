@@ -1,0 +1,14 @@
+requests
+ipykernel
+python-dotenv
+openai
+pydantic
+agno
+duckduckgo-search
+arxiv
+google-api-python-client
+newspaper4k
+lxml_html_clean
+groq
+wikipedia
+yfinance
