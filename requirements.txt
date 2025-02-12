@@ -12,3 +12,4 @@ lxml_html_clean
 groq
 wikipedia
 yfinance
+ipywidgets
